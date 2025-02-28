@@ -1,0 +1,12 @@
+*.log
+*.key
+*.history
+*.vcd
+*.diag
+*.svwf
+*.symbolnamelist
+*.symbolportinfomap
+.simvision/
+waves.shm/
+xcelium.d/
+xcelium.shm/
